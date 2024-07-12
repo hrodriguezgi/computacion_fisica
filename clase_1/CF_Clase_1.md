@@ -1,5 +1,5 @@
 # Computación en Física
-<img src="images/logo.png" width="100">
+<img src="../images/logo.png" width="100">
 
 ## Temas
 
@@ -40,3 +40,6 @@ Los temas que veremos a lo largo del curso serán los siguientes:
 - Excepciones
 - Módulos
 - Programación orientada a objetos
+
+
+Si desea ver la presentación en PDF: [CF_Clase_1.pdf](CF_Clase_1.pdf)
