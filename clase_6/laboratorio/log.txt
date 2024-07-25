@@ -1,0 +1,10 @@
+Starting the application...
+Connection established.
+Error: Unable to load configuration.
+User logged in.
+warning: Disk space low.
+ERROR: Failed to connect to database.
+Operation completed successfully.
+error: Invalid user input.
+Shutdown initiated.
+Application terminated.

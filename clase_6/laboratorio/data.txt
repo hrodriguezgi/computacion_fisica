@@ -1,0 +1,4 @@
+10 apples
+2 apples
+1 oranges
+1 bananas
