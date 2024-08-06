@@ -1,0 +1,11 @@
+#!/bin/bash
+
+testuser=baduser
+
+if grep $testuser /etc/passwd
+then
+    echo Los archivos del usuario $testuser son:
+    ls -a /home/$testuser
+else
+    echo El usuario no existe en el sistema
+fi

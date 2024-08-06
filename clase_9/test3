@@ -1,0 +1,9 @@
+#!/bin/bash
+
+var1=10
+var2=20
+var3=`expr $var2 / $var1`
+
+echo El resultado es $var3
+exit 100
+

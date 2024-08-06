@@ -1,0 +1,14 @@
+#!/bin/bash
+
+case $USER in
+john | katie)
+    echo "Bienvenido, $USER"
+    echo "Disfrute su visita";;
+testing)
+    echo "Cuenta especial testing";;
+jessica)
+    echo "No olvidar cerrar sesión al salir";;
+*)
+    echo "Lo siento, no tiene permitido estar acá";;
+esac
+

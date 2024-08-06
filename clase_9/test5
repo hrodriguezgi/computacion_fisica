@@ -1,0 +1,16 @@
+#!/bin/bash
+
+val1=10
+val2=11
+
+if [ $val1 -gt 5 ]
+then
+    echo "La variable $val1 es mayor que 5"
+fi
+
+if [ $val1 -eq $val2 ]
+then
+    echo Los valores son iguales
+else
+    echo Los valores sin diferentes
+fi

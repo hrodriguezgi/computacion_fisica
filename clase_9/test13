@@ -1,0 +1,11 @@
+#!/bin/bash
+
+usuario=$1
+
+if grep $usuario /etc/passwd
+then
+    echo "Usuario $usuario registrado en el sistema"
+else
+    echo "El usuario $usuario no se encuentra registrado"
+fi
+

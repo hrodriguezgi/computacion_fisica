@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ -d $HOME ]
+then
+    echo "El directorio HOME existe"
+    cd $HOME
+    pwd
+else
+    echo "Hay un problema con el directorio HOME"
+fi
+

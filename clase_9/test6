@@ -1,0 +1,11 @@
+#!/bin/bash
+
+testuser=baduser
+
+if [ $USER != $testuser ]
+then
+    echo "Este no es $testuser"
+else
+    echo "Bienvenido $testuser"
+fi
+
