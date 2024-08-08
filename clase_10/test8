@@ -1,0 +1,12 @@
+#!/bin/bash
+
+var1="Hola"
+
+function mi_funcion
+{
+    echo "$var1 $1"
+    echo ""
+}
+
+mi_funcion $1
+

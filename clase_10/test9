@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mi_funcion() {
+    echo "Hola mundo cruel"
+    return 100
+}
+
+mi_funcion
+echo $?
+

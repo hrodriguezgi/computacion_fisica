@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read -p "Ingrese su nombre completo: " firstname lastname
+
+echo "Validando datos para $lastname, $firstname..."
+

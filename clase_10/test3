@@ -1,0 +1,10 @@
+#!/bin/bash
+
+lista="Alabama Alaska Arizona Arkansas Colorado"
+lista=$lista" Connecticut"
+
+for state in $lista
+do
+    echo "El estado es $state"
+done
+

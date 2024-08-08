@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for test in Alabama alaska Arizona Arkansas California Colorado
+do
+    echo "El siguiente estado es $test"
+done
+echo "El ultimo estado fue $test"
+
+test="Connecticut"
+echo "Ahora el estado es $test"
+

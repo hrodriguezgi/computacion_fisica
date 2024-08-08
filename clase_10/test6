@@ -1,0 +1,11 @@
+#!/bin/bash
+
+function print_hola()
+{
+    echo "Hola Mundo"
+}
+
+echo "Prueba de funciones"
+echo ""
+print_hola
+

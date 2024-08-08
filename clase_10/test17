@@ -1,0 +1,10 @@
+#!/bin/bash
+
+count=1
+cat course.txt | while read line
+do
+    echo "Linea $count: $line"
+    count=$[ $count + 1 ]
+done
+echo "Archivo procesado"
+

@@ -1,0 +1,14 @@
+#!/bin/bash
+
+var1=0
+
+while echo "Iteración: $var1"
+    [ $var1 -lt 15 ]
+do
+    if [ $var1 -gt 5 ] && [ $var1 -lt 10 ]
+    then
+        continue
+    fi
+    echo "    Iteracion interna: $var1"
+    var1=$[ $var1 + 1 ]
+done
