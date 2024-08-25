@@ -9,5 +9,4 @@ Repositorio con las presentaciones y código utilizado en la materia de computac
 
 Harvey Rodriguez
 
-Esto es una última linea
 
