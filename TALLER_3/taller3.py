@@ -1,3 +1,5 @@
+#taller 3 Juan Pablo Arcila y Ana Sofia Giraldo
+
 def question_01():
 
     # Open the CSV file
