@@ -28,7 +28,7 @@ def pregunta_01():
         total = total + int(line.split('\t')[1])
     # codigo con mi respuesta
     return(total)
-print(pregunta_01())
+#print(pregunta_01())
 
 #Pregunta num 2
 def pregunta_02():
